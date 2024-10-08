@@ -10,3 +10,8 @@
    - **EZO_EC:** [Arduino Uno to EC](https://files.atlas-scientific.com/Arduino-Uno-EC-sample-code.pdf)
    - **EZO_CO2:** [Arduino Uno to CO2](https://files.atlas-scientific.com/Arduino-Uno-CO2-sample-code.pdf)
 
+### For Further Clarifications:
+For any clarification regarding the specification, check out the links down here:
+- **EZO_EC:** [EZO Conductivity Circuit Documentation](https://atlas-scientific.com/embedded-solutions/ezo-conductivity-circuit/)
+- **EZO_PMP:** [EZO Peristaltic Pump Documentation](https://atlas-scientific.com/peristaltic/ezo-pmp/)
+- **EZO_CO2:** [CO2 Sensor Documentation](https://atlas-scientific.com/probes/co2-sensor/)
